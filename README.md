@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicholson93
+- 👋 Hi, I’m @T-Nicholson
 - 👀 I’m interested in coding and building projects that will hopefully lead to a career in this field 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Begineer friendley projects
